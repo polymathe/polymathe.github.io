@@ -91,7 +91,7 @@ h2 {
 }
 
 input {
-  color: inherit;
+  font-size: inherit;
 }
 
 .indicates-required {
@@ -110,6 +110,8 @@ input {
   background-color: #fff;
   height: 30px;
   margin-top: 5px;
+  color: #b1b5b1;
+  padding-left: 5px;
 }
 
 .button {
@@ -123,6 +125,7 @@ input {
   border: none;
   margin-top: 15px;
   cursor: pointer;
+  color: #fff;
 }
 
 header {
